@@ -1,4 +1,4 @@
-
+jj
 # SkulBell
 
 A modern academic lecture manager and reminder app built with React Native and Expo.
